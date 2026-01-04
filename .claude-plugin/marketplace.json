@@ -1,0 +1,30 @@
+{
+  "name": "thinking-toolkit",
+  "owner": {
+    "name": "Filip Balada",
+    "email": "flpbalada@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for structured critical thinking — proven methodologies to analyze problems, challenge assumptions, and make better decisions",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "five-whys",
+      "source": "./five-whys",
+      "description": "Dig deeper into any problem by repeatedly asking 'Why?' — uncover hidden root causes instead of treating symptoms",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "critical-thinking",
+      "keywords": [
+        "root-cause",
+        "analysis",
+        "critical-thinking",
+        "problem-solving",
+        "five-whys"
+      ]
+    }
+  ]
+}

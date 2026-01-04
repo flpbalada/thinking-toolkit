@@ -1,0 +1,9 @@
+{
+  "name": "five-whys",
+  "version": "1.0.0",
+  "description": "Root cause analysis using the Five Whys technique",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}
