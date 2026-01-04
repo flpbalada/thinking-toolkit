@@ -34,13 +34,6 @@ and make better decisions.
 /plugin install thinking-toolkit:five-whys
 ```
 
-**3. Use skills**
-
-```bash
-# Start root cause analysis
-/five-whys
-```
-
 ## Requirements
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI installed
