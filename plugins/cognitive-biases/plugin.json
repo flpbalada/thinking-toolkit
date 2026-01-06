@@ -1,0 +1,9 @@
+{
+  "name": "cognitive-biases",
+  "version": "1.0.0",
+  "description": "Understanding and applying cognitive biases in product design",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

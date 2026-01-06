@@ -1,0 +1,9 @@
+{
+  "name": "game-theory-tit-for-tat",
+  "version": "1.0.0",
+  "description": "Apply Tit for Tat strategy for negotiations, relationships, and repeated interactions",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

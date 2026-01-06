@@ -1,0 +1,9 @@
+{
+  "name": "fogg-behavior-model",
+  "version": "1.0.0",
+  "description": "Design behavior change using the B=MAP framework (Motivation, Ability, Prompt)",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "graph-thinking",
+  "version": "1.0.0",
+  "description": "Non-linear problem solving using graph-based mental models",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

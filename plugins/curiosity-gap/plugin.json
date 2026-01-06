@@ -1,0 +1,9 @@
+{
+  "name": "curiosity-gap",
+  "version": "1.0.0",
+  "description": "Create engagement through strategic information gaps that drive user action",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

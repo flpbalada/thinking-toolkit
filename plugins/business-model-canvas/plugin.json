@@ -1,0 +1,9 @@
+{
+  "name": "business-model-canvas",
+  "version": "1.0.0",
+  "description": "Strategic business model design using the Business Model Canvas framework",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cognitive-fluency-psychology",
+  "version": "1.0.0",
+  "description": "Apply cognitive fluency principles to improve clarity, trust, and conversion",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

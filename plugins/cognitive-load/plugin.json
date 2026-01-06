@@ -1,0 +1,9 @@
+{
+  "name": "cognitive-load",
+  "version": "1.0.0",
+  "description": "Design experiences that optimize mental resources using Cognitive Load Theory",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}
