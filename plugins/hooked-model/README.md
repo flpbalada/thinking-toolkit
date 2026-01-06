@@ -1,0 +1,5 @@
+# Hooked Model
+
+Design habit-forming products using the Hook cycle. Use when building engagement
+loops, improving retention, designing notifications, or creating products users
+return to without external prompting.

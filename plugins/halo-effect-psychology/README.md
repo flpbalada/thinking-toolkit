@@ -1,0 +1,5 @@
+# Halo Effect Psychology
+
+Apply the halo effect in product design and UX. Use when designing first
+impressions, brand perception, feature presentation, or understanding how one
+positive attribute influences perception of others.

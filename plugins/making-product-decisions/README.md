@@ -1,0 +1,5 @@
+# Making Product Decisions
+
+Framework for structured product decision-making. Use when facing complex
+tradeoffs, aligning stakeholders, documenting decisions, or choosing between
+multiple valid approaches.

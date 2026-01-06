@@ -1,0 +1,5 @@
+# Jobs to Be Done
+
+Understand customer motivations through job theory. Use when defining product
+strategy, conducting user research, identifying competitors, writing user
+stories, or reframing features around customer progress.

@@ -1,0 +1,5 @@
+# What Not to Do as Product Manager
+
+Anti-patterns and mistakes to avoid as a product manager. Use when evaluating
+leadership behaviors, improving team dynamics, reflecting on management
+practices, or onboarding new product managers.

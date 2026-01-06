@@ -1,0 +1,5 @@
+# Kanban
+
+Visualize and optimize workflow with Kanban boards. Use when managing team work,
+identifying bottlenecks, improving delivery flow, or implementing continuous
+improvement in product development.

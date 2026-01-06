@@ -1,0 +1,5 @@
+# Curiosity Gap
+
+Create engagement through strategic information gaps that drive user action. Use
+when designing notifications, writing headlines, planning onboarding flows, or
+creating content that needs to capture and hold attention.

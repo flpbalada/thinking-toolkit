@@ -1,0 +1,5 @@
+# Status Quo Bias
+
+Understand and design for users' preference for current state over change. Use
+when planning migrations, introducing new features, designing defaults, or
+overcoming resistance to product adoption.

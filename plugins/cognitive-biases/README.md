@@ -1,0 +1,5 @@
+# Cognitive Biases
+
+Apply cognitive bias knowledge to product design and decision-making. Use when
+designing user experiences, analyzing user behavior, improving conversions, or
+ensuring ethical design practices.

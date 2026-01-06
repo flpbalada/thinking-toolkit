@@ -1,0 +1,5 @@
+# Cognitive Load
+
+Design experiences that optimize mental resources using Cognitive Load Theory.
+Use when designing interfaces, creating onboarding flows, planning information
+architecture, or improving task completion rates.

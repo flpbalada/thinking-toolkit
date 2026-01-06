@@ -1,0 +1,5 @@
+# Business Model Canvas
+
+Design and analyze business models using the Business Model Canvas framework.
+Use when evaluating startups, planning new products, pivoting existing
+businesses, or understanding how companies create and capture value.

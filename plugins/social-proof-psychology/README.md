@@ -1,0 +1,5 @@
+# Social Proof Psychology
+
+Leverage social proof principles to build trust and influence user behavior. Use
+when designing landing pages, adding testimonials, displaying user stats, or
+optimizing conversion elements with social validation.

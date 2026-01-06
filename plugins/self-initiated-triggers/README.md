@@ -1,0 +1,5 @@
+# Self Initiated Triggers
+
+Design internal triggers for sustained user engagement. Use when building
+habit-forming features, improving retention without notifications, or
+transitioning users from external prompts to self-motivated engagement.

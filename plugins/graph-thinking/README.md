@@ -1,0 +1,5 @@
+# Graph Thinking
+
+Apply graph-based thinking to visualize complex relationships and solve problems
+non-linearly. Use when mapping dependencies, analyzing systems, exploring
+interconnected concepts, or designing architectures.

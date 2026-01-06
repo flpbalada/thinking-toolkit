@@ -1,0 +1,5 @@
+# Hypothesis Tree
+
+Structure complex questions into testable hypotheses. Use when validating
+product ideas, debugging problems, planning experiments, or breaking down
+ambiguous challenges into actionable research.

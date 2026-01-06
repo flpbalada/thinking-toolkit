@@ -1,0 +1,5 @@
+# Theme Epic Story
+
+Structure product work hierarchically using themes, epics, and stories. Use when
+organizing backlogs, planning releases, communicating with stakeholders, or
+breaking down large initiatives into manageable work.

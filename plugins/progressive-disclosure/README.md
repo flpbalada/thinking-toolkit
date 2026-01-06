@@ -1,0 +1,5 @@
+# Progressive Disclosure
+
+Reduce complexity by revealing information progressively. Use when designing
+onboarding, complex forms, feature-rich interfaces, or any experience where
+showing everything at once would overwhelm users.

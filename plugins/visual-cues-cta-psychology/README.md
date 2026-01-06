@@ -1,0 +1,5 @@
+# Visual Cues CTA Psychology
+
+Design effective CTAs using visual attention and gaze psychology principles. Use
+when designing landing pages, button hierarchies, conversion elements, or
+optimizing user attention flow through interfaces.
