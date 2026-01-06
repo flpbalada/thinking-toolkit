@@ -1,5 +1,7 @@
 # Thinking Toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A curated marketplace of Claude Code plugins for product managers and critical
 thinkers. Structured methodologies to analyze problems, challenge assumptions,
 and make better decisions.
