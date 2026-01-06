@@ -27,15 +27,285 @@
       ]
     },
     {
+      "name": "business-model-canvas",
+      "source": "./business-model-canvas",
+      "description": "Strategic business model design using the Business Model Canvas framework",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "strategic-planning",
+      "keywords": [
+        "business-model",
+        "strategy",
+        "planning",
+        "canvas",
+        "startup"
+      ]
+    },
+    {
+      "name": "cognitive-biases",
+      "source": "./cognitive-biases",
+      "description": "Understanding and applying cognitive biases in product design and UX",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": [
+        "cognitive-bias",
+        "psychology",
+        "ux",
+        "decision-making",
+        "behavior"
+      ]
+    },
+    {
+      "name": "cognitive-fluency-psychology",
+      "source": "./cognitive-fluency-psychology",
+      "description": "Apply cognitive fluency principles to improve clarity, trust, and user experience",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": ["cognitive-fluency", "psychology", "ux", "clarity", "trust"]
+    },
+    {
+      "name": "cognitive-load",
+      "source": "./cognitive-load",
+      "description": "Design experiences that optimize mental resources and reduce user fatigue",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": [
+        "cognitive-load",
+        "ux",
+        "design",
+        "mental-resources",
+        "simplicity"
+      ]
+    },
+    {
+      "name": "curiosity-gap",
+      "source": "./curiosity-gap",
+      "description": "Create engagement through strategic information gaps and intrigue",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "engagement",
+      "keywords": [
+        "curiosity",
+        "engagement",
+        "marketing",
+        "copywriting",
+        "attention"
+      ]
+    },
+    {
+      "name": "fogg-behavior-model",
+      "source": "./fogg-behavior-model",
+      "description": "Design behavior change using B=MAP (Motivation, Ability, Prompt)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "behavior-design",
+      "keywords": ["behavior", "motivation", "ability", "prompt", "habit"]
+    },
+    {
+      "name": "game-theory-tit-for-tat",
+      "source": "./game-theory-tit-for-tat",
+      "description": "Apply Tit for Tat strategy for negotiations and repeated interactions",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "strategy",
+      "keywords": [
+        "game-theory",
+        "negotiation",
+        "strategy",
+        "cooperation",
+        "competition"
+      ]
+    },
+    {
+      "name": "graph-thinking",
+      "source": "./graph-thinking",
+      "description": "Non-linear problem solving using graph-based mental models",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "problem-solving",
+      "keywords": [
+        "graph",
+        "mental-model",
+        "systems-thinking",
+        "relationships",
+        "analysis"
+      ]
+    },
+    {
       "name": "skill-creator",
       "source": "./skill-creator",
-      "description": "Create Claude Code custom skills with proper structure, metadata, and packaging following official guidelines",
+      "description": "Create Claude Code custom skills with proper structure, metadata, and packaging",
       "version": "1.0.0",
       "author": {
         "name": "Filip Balada"
       },
       "category": "development",
       "keywords": ["skill", "plugin", "development", "template", "claude-code"]
+    },
+    {
+      "name": "halo-effect-psychology",
+      "source": "./halo-effect-psychology",
+      "description": "Apply the halo effect in product design, UX, and first impressions",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": [
+        "halo-effect",
+        "psychology",
+        "first-impression",
+        "perception",
+        "brand"
+      ]
+    },
+    {
+      "name": "hicks-law",
+      "source": "./hicks-law",
+      "description": "Optimize decision-making speed by managing choice quantity",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": ["hicks-law", "choice", "decision", "ux", "simplicity"]
+    },
+    {
+      "name": "hooked-model",
+      "source": "./hooked-model",
+      "description": "Design habit-forming products using the Hook cycle (Trigger, Action, Reward, Investment)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "behavior-design",
+      "keywords": ["hooked", "habit", "engagement", "retention", "nir-eyal"]
+    },
+    {
+      "name": "hypothesis-tree",
+      "source": "./hypothesis-tree",
+      "description": "Structure complex questions into testable hypotheses using MECE principle",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "critical-thinking",
+      "keywords": ["hypothesis", "mece", "analysis", "testing", "consulting"]
+    },
+    {
+      "name": "jobs-to-be-done",
+      "source": "./jobs-to-be-done",
+      "description": "Understand customer motivations through job theory and the hiring metaphor",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "strategic-planning",
+      "keywords": [
+        "jtbd",
+        "jobs-to-be-done",
+        "customer",
+        "motivation",
+        "christensen"
+      ]
+    },
+    {
+      "name": "kanban",
+      "source": "./kanban",
+      "description": "Visualize and optimize workflow with Kanban boards and WIP limits",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "productivity",
+      "keywords": ["kanban", "workflow", "agile", "wip", "lean"]
+    },
+    {
+      "name": "loss-aversion-psychology",
+      "source": "./loss-aversion-psychology",
+      "description": "Leverage loss aversion in product design, messaging, and retention",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": [
+        "loss-aversion",
+        "psychology",
+        "kahneman",
+        "prospect-theory",
+        "retention"
+      ]
+    },
+    {
+      "name": "making-product-decisions",
+      "source": "./making-product-decisions",
+      "description": "Framework for structured product decision-making and documentation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "strategic-planning",
+      "keywords": [
+        "decision",
+        "framework",
+        "product",
+        "strategy",
+        "documentation"
+      ]
+    },
+    {
+      "name": "progressive-disclosure",
+      "source": "./progressive-disclosure",
+      "description": "Reduce complexity by revealing information progressively in UX design",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "psychology-design",
+      "keywords": [
+        "progressive-disclosure",
+        "ux",
+        "complexity",
+        "onboarding",
+        "simplicity"
+      ]
+    },
+    {
+      "name": "self-initiated-triggers",
+      "source": "./self-initiated-triggers",
+      "description": "Design internal triggers for sustained user engagement without external prompts",
+      "version": "1.0.0",
+      "author": {
+        "name": "Filip Balada"
+      },
+      "category": "behavior-design",
+      "keywords": [
+        "triggers",
+        "habit",
+        "engagement",
+        "retention",
+        "internal-motivation"
+      ]
     }
   ]
 }

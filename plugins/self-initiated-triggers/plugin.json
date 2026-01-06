@@ -1,0 +1,9 @@
+{
+  "name": "self-initiated-triggers",
+  "version": "1.0.0",
+  "description": "Designing internal triggers for sustained user engagement",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

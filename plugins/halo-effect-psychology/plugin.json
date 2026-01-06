@@ -1,0 +1,9 @@
+{
+  "name": "halo-effect-psychology",
+  "version": "1.0.0",
+  "description": "Understanding and applying the halo effect in product design",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

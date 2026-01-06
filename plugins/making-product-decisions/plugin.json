@@ -1,0 +1,9 @@
+{
+  "name": "making-product-decisions",
+  "version": "1.0.0",
+  "description": "Framework for structured product decision-making",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

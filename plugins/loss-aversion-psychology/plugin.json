@@ -1,0 +1,9 @@
+{
+  "name": "loss-aversion-psychology",
+  "version": "1.0.0",
+  "description": "Leveraging loss aversion in product design and messaging",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

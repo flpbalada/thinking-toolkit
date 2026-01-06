@@ -1,0 +1,9 @@
+{
+  "name": "hypothesis-tree",
+  "version": "1.0.0",
+  "description": "Structured hypothesis generation and testing for product decisions",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

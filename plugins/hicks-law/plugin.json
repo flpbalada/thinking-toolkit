@@ -1,0 +1,9 @@
+{
+  "name": "hicks-law",
+  "version": "1.0.0",
+  "description": "Reducing decision time through choice optimization",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

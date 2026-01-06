@@ -1,0 +1,9 @@
+{
+  "name": "progressive-disclosure",
+  "version": "1.0.0",
+  "description": "Reducing complexity by revealing information progressively",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

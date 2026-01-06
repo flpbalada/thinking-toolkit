@@ -1,0 +1,9 @@
+{
+  "name": "hooked-model",
+  "version": "1.0.0",
+  "description": "Building habit-forming products using the Hook cycle",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

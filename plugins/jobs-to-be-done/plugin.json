@@ -1,0 +1,9 @@
+{
+  "name": "jobs-to-be-done",
+  "version": "1.0.0",
+  "description": "Understanding customer motivations through job theory",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}
