@@ -1,0 +1,9 @@
+{
+  "name": "user-story-fundamentals",
+  "version": "1.0.0",
+  "description": "Capture requirements from user perspective with structured user stories",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

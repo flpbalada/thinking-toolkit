@@ -1,0 +1,9 @@
+{
+  "name": "theme-epic-story",
+  "version": "1.0.0",
+  "description": "Structure product work hierarchically using themes, epics, and stories",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

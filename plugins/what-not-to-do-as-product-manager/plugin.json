@@ -1,0 +1,9 @@
+{
+  "name": "what-not-to-do-as-product-manager",
+  "version": "1.0.0",
+  "description": "Anti-patterns and mistakes to avoid as a product manager",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

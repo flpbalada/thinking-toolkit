@@ -1,0 +1,9 @@
+{
+  "name": "social-proof-psychology",
+  "version": "1.0.0",
+  "description": "Leverage social proof principles to build trust and influence user behavior",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

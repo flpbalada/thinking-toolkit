@@ -1,0 +1,9 @@
+{
+  "name": "visual-cues-cta-psychology",
+  "version": "1.0.0",
+  "description": "Design effective CTAs using visual attention and gaze psychology",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

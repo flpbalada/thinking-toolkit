@@ -1,0 +1,9 @@
+{
+  "name": "status-quo-bias",
+  "version": "1.0.0",
+  "description": "Understand and design for users' preference for current state over change",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}

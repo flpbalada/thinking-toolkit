@@ -1,0 +1,9 @@
+{
+  "name": "trust-psychology",
+  "version": "1.0.0",
+  "description": "Build trust signals that reduce perceived risk and enable user action",
+  "author": {
+    "name": "Filip Balada"
+  },
+  "skills": ["./skills/"]
+}
