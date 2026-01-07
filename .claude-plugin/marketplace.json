@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "five-whys",
-      "source": "./five-whys",
+      "source": "../plugins/five-whys",
       "description": "Dig deeper into any problem by repeatedly asking 'Why?' — uncover hidden root causes instead of treating symptoms",
       "version": "1.0.0",
       "author": {
@@ -28,7 +28,7 @@
     },
     {
       "name": "business-model-canvas",
-      "source": "./business-model-canvas",
+      "source": "../plugins/business-model-canvas",
       "description": "Strategic business model design using the Business Model Canvas framework",
       "version": "1.0.0",
       "author": {
@@ -45,7 +45,7 @@
     },
     {
       "name": "cognitive-biases",
-      "source": "./cognitive-biases",
+      "source": "../plugins/cognitive-biases",
       "description": "Understanding and applying cognitive biases in product design and UX",
       "version": "1.0.0",
       "author": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "cognitive-fluency-psychology",
-      "source": "./cognitive-fluency-psychology",
+      "source": "../plugins/cognitive-fluency-psychology",
       "description": "Apply cognitive fluency principles to improve clarity, trust, and user experience",
       "version": "1.0.0",
       "author": {
@@ -73,7 +73,7 @@
     },
     {
       "name": "cognitive-load",
-      "source": "./cognitive-load",
+      "source": "../plugins/cognitive-load",
       "description": "Design experiences that optimize mental resources and reduce user fatigue",
       "version": "1.0.0",
       "author": {
@@ -90,7 +90,7 @@
     },
     {
       "name": "curiosity-gap",
-      "source": "./curiosity-gap",
+      "source": "../plugins/curiosity-gap",
       "description": "Create engagement through strategic information gaps and intrigue",
       "version": "1.0.0",
       "author": {
@@ -107,7 +107,7 @@
     },
     {
       "name": "fogg-behavior-model",
-      "source": "./fogg-behavior-model",
+      "source": "../plugins/fogg-behavior-model",
       "description": "Design behavior change using B=MAP (Motivation, Ability, Prompt)",
       "version": "1.0.0",
       "author": {
@@ -118,7 +118,7 @@
     },
     {
       "name": "game-theory-tit-for-tat",
-      "source": "./game-theory-tit-for-tat",
+      "source": "../plugins/game-theory-tit-for-tat",
       "description": "Apply Tit for Tat strategy for negotiations and repeated interactions",
       "version": "1.0.0",
       "author": {
@@ -135,7 +135,7 @@
     },
     {
       "name": "graph-thinking",
-      "source": "./graph-thinking",
+      "source": "../plugins/graph-thinking",
       "description": "Non-linear problem solving using graph-based mental models",
       "version": "1.0.0",
       "author": {
@@ -152,7 +152,7 @@
     },
     {
       "name": "skill-creator",
-      "source": "./skill-creator",
+      "source": "../plugins/skill-creator",
       "description": "Create Claude Code custom skills with proper structure, metadata, and packaging",
       "version": "1.0.0",
       "author": {
@@ -163,7 +163,7 @@
     },
     {
       "name": "halo-effect-psychology",
-      "source": "./halo-effect-psychology",
+      "source": "../plugins/halo-effect-psychology",
       "description": "Apply the halo effect in product design, UX, and first impressions",
       "version": "1.0.0",
       "author": {
@@ -180,7 +180,7 @@
     },
     {
       "name": "hicks-law",
-      "source": "./hicks-law",
+      "source": "../plugins/hicks-law",
       "description": "Optimize decision-making speed by managing choice quantity",
       "version": "1.0.0",
       "author": {
@@ -191,7 +191,7 @@
     },
     {
       "name": "hooked-model",
-      "source": "./hooked-model",
+      "source": "../plugins/hooked-model",
       "description": "Design habit-forming products using the Hook cycle (Trigger, Action, Reward, Investment)",
       "version": "1.0.0",
       "author": {
@@ -202,7 +202,7 @@
     },
     {
       "name": "hypothesis-tree",
-      "source": "./hypothesis-tree",
+      "source": "../plugins/hypothesis-tree",
       "description": "Structure complex questions into testable hypotheses using MECE principle",
       "version": "1.0.0",
       "author": {
@@ -213,7 +213,7 @@
     },
     {
       "name": "jobs-to-be-done",
-      "source": "./jobs-to-be-done",
+      "source": "../plugins/jobs-to-be-done",
       "description": "Understand customer motivations through job theory and the hiring metaphor",
       "version": "1.0.0",
       "author": {
@@ -230,7 +230,7 @@
     },
     {
       "name": "kanban",
-      "source": "./kanban",
+      "source": "../plugins/kanban",
       "description": "Visualize and optimize workflow with Kanban boards and WIP limits",
       "version": "1.0.0",
       "author": {
@@ -241,7 +241,7 @@
     },
     {
       "name": "loss-aversion-psychology",
-      "source": "./loss-aversion-psychology",
+      "source": "../plugins/loss-aversion-psychology",
       "description": "Leverage loss aversion in product design, messaging, and retention",
       "version": "1.0.0",
       "author": {
@@ -258,7 +258,7 @@
     },
     {
       "name": "making-product-decisions",
-      "source": "./making-product-decisions",
+      "source": "../plugins/making-product-decisions",
       "description": "Framework for structured product decision-making and documentation",
       "version": "1.0.0",
       "author": {
@@ -275,7 +275,7 @@
     },
     {
       "name": "progressive-disclosure",
-      "source": "./progressive-disclosure",
+      "source": "../plugins/progressive-disclosure",
       "description": "Reduce complexity by revealing information progressively in UX design",
       "version": "1.0.0",
       "author": {
@@ -292,7 +292,7 @@
     },
     {
       "name": "self-initiated-triggers",
-      "source": "./self-initiated-triggers",
+      "source": "../plugins/self-initiated-triggers",
       "description": "Design internal triggers for sustained user engagement without external prompts",
       "version": "1.0.0",
       "author": {
